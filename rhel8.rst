@@ -1,3 +1,8 @@
+Links
+-----
+
+- RHEL 8 Documentation: https://access.redhat.com/documentation/ru-ru/red_hat_enterprise_linux/8/
+
 Install VirtualBox Guest Additions
 ----------------------------------
 
