@@ -24,3 +24,8 @@ The installation can be checked with lsmod
 ::
 
     lsmod | grep vbox
+    
+VB Guest as Service
+-------------------
+
+It is possible to run a VB guest on Windows as a service with `NSSM <https://nssm.cc/>`_.
