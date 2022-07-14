@@ -15,6 +15,8 @@
 
 Публичной информации об эффекте применения ML в страховании - мало при первом рассмотрении (поиск по ключевым словам, просмотр статей, документов). Либо надо искать по другому, либо успехи пока не публикуются.
 
+![The benefits of big data analytics (BDA) for insurers](https://miro.medium.com/max/1400/1*lEg2GcRBfa8bpitFusfeuw.png)
+
 В России развитие практик DS в страховом бизнесе затруднено малым объёмом рынка страхования, что теоретически должно задавать высокую конкуренцию между участниками рынка и вынуждать их искать пути повышения эффективности.
 
 Перспективные задачм:
@@ -71,3 +73,5 @@
 19. [Application of Statistical Techniques in Group Insurance, 2016](https://actuaries.asn.au/Library/Events/FSF/2016/4cTiohEtAlInsurance.pdf)
 20. [European insurance industry, Statistics](https://www.insuranceeurope.eu/statistics)
 21. [European insurance industry, Annual Report 2021-2022](https://www.insuranceeurope.eu/mediaitem/dc5e32af-f76e-4b8d-bb6d-60ed929815cf/Annual%20Report%202021-2022.pdf)
+22. [Machine Learning at Insurers, 2020](https://towardsdatascience.com/machine-learning-at-insurance-companies-2ac7ad109c65)
+23. [Обзор страховщиков, использующих искусственный интеллект и машинное обучение, 2019](https://www.asn-news.ru/news/72013)
